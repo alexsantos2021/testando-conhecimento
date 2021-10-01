@@ -1,1 +1,1 @@
-login criado
+login criado com as valudações funcionando
